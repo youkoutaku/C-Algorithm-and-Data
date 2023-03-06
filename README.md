@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithm and Data
 アルゴリズムとデータ構造
 
 - Hornerの方法
