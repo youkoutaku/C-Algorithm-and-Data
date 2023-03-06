@@ -1,47 +1,44 @@
 # Algorithm
- 
 アルゴリズムとデータ構造
 
-## Hornerの方法
-1_1,1_3
+- Hornerの方法
+ - [1_1](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/1_1.c)
+- ユークリッドの互除法
+ - [1_6](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/1_6.c)
+- シンプソン則
+ - [2_2_2](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/2_2_2.c)
 
-## ユークリッドの互除法
-1_6
+- テーラー展開 
+ - [2_3](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/2_3.c)
 
-## シンプソン則
-2_2_2
+- 2分法による非線形方程式
+ - [2_4_1](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/2_4_1.c)
 
-## テーラー展開 
-2_3
+- ニュートン法による非線形方程式
+ - [2_4_2](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/2_4_2.c)
 
-## 2分法による非線形方程式
-2_4_1
+- ソート-直接選択法
+ - [3_1_1](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/3_1_1.c)
 
-## ニュートン法による非線形方程式
-2_4_2
+- ソート-バブル・ソート
+ - [3_1_2](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/3_1_2.c) 
+- ソート-シェーカー・ソート
+ - [3_1_3](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/3_1_3.c)
 
-## ソート-直接選択法
-3_1_1
+- ソート-基本挿入法
+ - [3_2_1](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/3_2_1.c)
 
-## ソート-バブル・ソート
-3_1_2
+- ソート-シェル・ソート改良挿入法1
+ - [3_2_2](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/3_2_2.c)
 
-## ソート-シェーカー・ソート
-3_1_3
+- ソート-シェル・ソート改良挿入法2
+ - [3_2_3](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/3_2_3.c)
 
-## ソート-基本挿入法
-3_2_1
+- 再帰（フィボナッチ数）
+ - [4_1_2](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/4_1_2.c)
 
-## ソート-シェル・ソート改良挿入法1
-3_2_2
+- スタック
+ - [5_1](https://github.com/youkoutaku/C-Algorithm-and-Data/blob/main/code/5_1.c)
 
-## ソート-シェル・ソート改良挿入法2
-3_2_3
-
-## 再帰（フィボナッチ数）
-4_1_2
-
-## スタック
-5_1
-
-## 
+---
+未完成
